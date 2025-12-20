@@ -1,16 +1,8 @@
-<h2 align="left">Hi 👋! My name is Adham and I'm a FrontEnd Developer.</h2>
+<h2 align="center">Hi 👋! My name is Adham and I'm a FrontEnd Developer.</h2>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api? username=adhamdotjs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=adhamdotjs&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adhamdotjs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="124" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnViMXlkeHhqb2d1YmRtaGs2d25kbHRiOWNsYnloNjFtOThweDBycCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13rQ7rrTrvZXlm/giphy.gif"  />
+<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnViMXlkeHhqb2d1YmRtaGs2d25kbHRiOWNsYnloNjFtOThweDBycCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13rQ7rrTrvZXlm/giphy.gif"  />
 
 ###
 
@@ -57,6 +49,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
+</div>
+
+###
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api? username=adhamdotjs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=adhamdotjs&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adhamdotjs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
