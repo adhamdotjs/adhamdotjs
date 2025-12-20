@@ -59,10 +59,14 @@
 <br/>
 
 ###
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api? username=adhamdotjs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=adhamdotjs&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adhamdotjs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adhamdotjs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=adhamdotjs&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5)
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=adhamdotjs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false)
 </div>
 
 ###
